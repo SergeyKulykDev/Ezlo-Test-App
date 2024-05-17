@@ -1,3 +1,31 @@
 <resources>
     <string name="app_name">Ezlo Test App</string>
+    <string name="full_name">Serhii Kulyk</string>
+
+    <!--  Common  -->
+    <string name="reset">Reset</string>
+    <string name="edit">Edit</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="delete">Delete</string>
+    <string name="save">Save</string>
+
+    <!--  Device Details  -->
+    <string name="device_details_title">Device details</string>
+    <string name="edit_device_title">Edit Device</string>
+    <string name="device_sn">SN: %d</string>
+    <string name="device_mac_address">MAC Address: %s</string>
+    <string name="device_firmware">Firmware: %s</string>
+    <string name="device_model">Model: %s</string>
+
+    <!--  Alert  -->
+    <string name="alert_delete_title">Do you want to delete device %s?</string>
+    <string name="alert_delete_description">You can restore it later using reset action</string>
+
+    <!--  Empty State  -->
+    <string name="no_devices">No devices</string>
+
+    <!--  Errors  -->
+    <string name="empty_field">This field must be filed</string>
+
 </resources>
